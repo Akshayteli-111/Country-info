@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.main{
+    margin:25px;
+    background-color: burlywood;
+}
+.country_card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    margin: 30px;
+
+}
+.countryy {
+    box-shadow: -1px 1px 10px 1px #ccc;
+    padding: 20px;
+    margin: 20px 0px;
+}
